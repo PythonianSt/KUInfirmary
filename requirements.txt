@@ -1,8 +1,8 @@
-streamlit
-requests
-dotenv
-openai
-csv
+streamlit==1.32.2
+python-dotenv==1.0.1
+openai==1.12.0
+pandas==2.2.1
+
 
 
 
